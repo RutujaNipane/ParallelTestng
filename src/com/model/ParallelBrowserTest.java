@@ -15,6 +15,7 @@ public class ParallelBrowserTest
 	  
 	  System.out.println("change affect to git");
 	  System.out.println("chng1111");
+	  System.out.println("change change");
 	 System.out.println("In chrome Browser");
 	 System.setProperty("webdriver.chrome.driver","G:\\TESTING\\chromedriver_win32\\chromedriver.exe");
 	 driver=new ChromeDriver();
